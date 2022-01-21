@@ -6,7 +6,7 @@ import (
     "net"
     "strings"
 )
-// Writing a function to get NIC details
+// Writing a function to get NIC details..
 func networkInterfaceDetails() {
 	var count int
 // Checking for null value for interface
